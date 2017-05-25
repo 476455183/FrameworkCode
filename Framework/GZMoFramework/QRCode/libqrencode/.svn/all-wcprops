@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode
+END
+QRCodeGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/QRCodeGenerator.m
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/bitstream.h
+END
+mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/mask.h
+END
+qrencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/qrencode.c
+END
+split.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/split.h
+END
+qrinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/qrinput.c
+END
+qrspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/qrspec.h
+END
+qrencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/qrencode.h
+END
+qrinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/qrinput.h
+END
+rscode.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/rscode.c
+END
+rscode.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/rscode.h
+END
+QRCodeGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/QRCodeGenerator.h
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/bitstream.c
+END
+mask.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/mask.c
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/split.c
+END
+qrspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/QRCode/libqrencode/qrspec.c
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/MySecurity
+END
+GTMBase64.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/MySecurity/GTMBase64.h
+END
+MySecurity.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/MySecurity/MySecurity.h
+END
+NSString+SHA.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/MySecurity/NSString+SHA.h
+END
+GTMBase64.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/MySecurity/GTMBase64.m
+END
+MySecurity.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/MySecurity/MySecurity.m
+END
+NSString+SHA.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/MySecurity/NSString+SHA.m
+END
+GTMDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/M_APP/!svn/ver/981/IOS/Common/framework/trunk/code/Framework/GZMoFramework/MySecurity/GTMDefines.h
+END
