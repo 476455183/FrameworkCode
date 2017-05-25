@@ -16,7 +16,6 @@
 
 @end
 
-
 @interface CustomCollectionView : UIView<UICollectionViewDataSource, UICollectionViewDelegate>
 
 @property (nonatomic, strong) UICollectionView *myCollectionView;
@@ -26,6 +25,7 @@
 @property (nonatomic, strong) NSArray *imageArray;
 /** CollectionView选中的item索引*/
 @property (nonatomic) NSInteger selectedCell;
+
 @property (nonatomic, assign) id<CollectionViewDidSelectRow> selectRowDelegate;//协议
 
 @end
